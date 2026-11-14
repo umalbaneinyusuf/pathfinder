@@ -1,0 +1,55 @@
+{
+  "project": "PATHFINDER — Wadi Hauran ↔ Gale Crater",
+  "purpose": "Fill only with matched, traceable measurements. Do not use the null placeholders as scientific values.",
+  "earthSite": "wadi-hauran",
+  "planetSite": "gale-crater",
+  "mission": "rover",
+  "coordinateNote": "Earth and Mars coordinates are kept in their native reference frames. Measurements must come from matched analysis windows and compatible methods.",
+  "measurements": {
+    "surface": {
+      "earth": null,
+      "planet": null,
+      "unit": "",
+      "rangeMin": null,
+      "rangeMax": null,
+      "sourceId": "",
+      "method": ""
+    },
+    "topography": {
+      "earth": null,
+      "planet": null,
+      "unit": "",
+      "rangeMin": null,
+      "rangeMax": null,
+      "sourceId": "",
+      "method": ""
+    },
+    "thermal": {
+      "earth": null,
+      "planet": null,
+      "unit": "",
+      "rangeMin": null,
+      "rangeMax": null,
+      "sourceId": "",
+      "method": ""
+    },
+    "hydrology": {
+      "earth": null,
+      "planet": null,
+      "unit": "",
+      "rangeMin": null,
+      "rangeMax": null,
+      "sourceId": "",
+      "method": ""
+    },
+    "operations": {
+      "earth": null,
+      "planet": null,
+      "unit": "",
+      "rangeMin": null,
+      "rangeMax": null,
+      "sourceId": "",
+      "method": ""
+    }
+  }
+}

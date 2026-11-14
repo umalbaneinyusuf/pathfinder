@@ -1,0 +1,15 @@
+{
+  "routes": [
+    { "path": "/", "title": "PATHFINDER" },
+    { "path": "/showcase", "title": "Overview" },
+    { "path": "/workspace", "title": "Research Workspace" },
+    { "path": "/atlas", "title": "Analogue Atlas" },
+    { "path": "/compare", "title": "Compare Sites" },
+    { "path": "/iraq", "title": "Iraq Discovery" },
+    { "path": "/sites/:id", "title": "Site Profile" },
+    { "path": "/methodology", "title": "Methodology" },
+    { "path": "/sources", "title": "Data Sources" },
+    { "path": "/report", "title": "Scientific Report" },
+    { "path": "/404", "title": "Not Found" }
+  ]
+}
